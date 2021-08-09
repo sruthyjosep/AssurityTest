@@ -8,6 +8,7 @@ Pre-req: Visual Studio 2019 or any latest version
 4. Build> Build Solution 
 5. Run the test that is discovered in the test explorer
 6. Test would fail as the acceptance criteria is not met for the promotion with description name
+7. Update the feature file, example section to modify the test data
 
 **Acceptance Criteria:**
 Name = "Carbon credits"
